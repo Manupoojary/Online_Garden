@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462235590289",
+    "firebase_url": "https://online-garden-167bd-default-rtdb.firebaseio.com",
+    "project_id": "online-garden-167bd",
+    "storage_bucket": "online-garden-167bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462235590289:android:c94451af93967ef1eae930",
+        "android_client_info": {
+          "package_name": "com.example.aexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462235590289-69e4vq82km2u444m18u37shgm0jv4pko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aexpress",
+            "certificate_hash": "d88f55e53cf66d8f6bae35abd8507e3ae3552733"
+          }
+        },
+        {
+          "client_id": "462235590289-dg1r8r8rkln8lbacgf5a9etq0o5g3s4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQLo2rpvep4wIXml6YMhpH3rhlkSYUJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462235590289-dg1r8r8rkln8lbacgf5a9etq0o5g3s4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
